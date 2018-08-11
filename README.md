@@ -13,3 +13,5 @@ python2.7 computeMSD.py -com -dt 0.00001 11 12 13
 11 12 13 is the columns that I wish to input, 
 can put x y z , can put tx ty tz
 
+Other codes are from joyjit at a quite early version, I can learn some structure from these codes, but need to do personaly changes due to my cases. 
+
